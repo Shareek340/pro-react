@@ -55,8 +55,8 @@
   gap: 34px;
   align-items: center;
   justify-content: flex-start;
-  margin-left: 4rem !important;
-  margin-right: -6rem;
+  margin-left: 3rem !important;
+  margin-right: -5rem;
 }
 .navigation-link {
   box-sizing: border-box;
