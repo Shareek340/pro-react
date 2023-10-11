@@ -1,4 +1,3 @@
-import { useCallback, useState, forwardRef } from "react";
 import "./style.css";
 
 function BrandingSection() {

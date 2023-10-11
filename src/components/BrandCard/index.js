@@ -1,4 +1,3 @@
-import { useCallback, useState, forwardRef } from "react";
 import "./style.css";
 import img3 from './img3.png'
 
