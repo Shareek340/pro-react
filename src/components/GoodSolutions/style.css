@@ -1,0 +1,69 @@
+.retail-chain-info {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding: 150px 48px 259px 94px;
+  background: #333333;
+  border-radius: 6px;
+  width: 100vh;
+  height: 644px;
+  margin-top: -10rem !important;
+}
+.yellow-border-box {
+  box-sizing: border-box;
+  width: 270px;
+  border-top: 5px solid #ffcc00;
+}
+.retail-chain-info2 {
+  box-sizing: border-box;
+  padding-right: 2.5px;
+  padding-left: 2.5px;
+  margin-top: 48px;
+}
+.max-width-box-sizing-font-family-font-size-font-weight-letter-spacing-line-height-color {
+  box-sizing: border-box;
+  font-size: 26px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+  max-width: 471px;
+  color: white;
+  letter-spacing: -0.02em;
+}
+.retail-chain-description {
+  box-sizing: border-box;
+  padding-right: 2.5px;
+  padding-left: 2.5px;
+  margin-top: 34px;
+}
+.retail-description {
+  box-sizing: border-box;
+  max-width: 367px;
+  font: 400 16px/111.98123168945312% Inter;
+  color: #6e6e6e;
+  letter-spacing: -0.02em;
+}
+.services-container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 2.5px;
+  padding-left: 2.5px;
+  margin-top: 56px;
+}
+.services-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 16px Inter;
+  color: white;
+  letter-spacing: -0.02em;
+}
+.svg-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  margin-left: 8.5px;
+}

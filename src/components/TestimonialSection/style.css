@@ -1,0 +1,49 @@
+.testimonial-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 47px;
+}
+.testimonial-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 231px;
+  font: 500 10.5px/112.39437866210938% Inter;
+  color: #dedede;
+  letter-spacing: -0.02em;
+}
+.testimonial-divider {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 255px;
+  margin-top: 28px;
+  border-top: 2.5px solid white;
+}
+.branding-services-for-john-doe {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 2px;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 21px;
+}
+.branding-services-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 12px Inter;
+  color: white;
+  letter-spacing: -0.03em;
+}
+.ceo-name {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 12px Inter;
+  color: white;
+  text-align: right;
+  letter-spacing: -0.03em;
+}

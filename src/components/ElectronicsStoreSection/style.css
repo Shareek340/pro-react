@@ -1,0 +1,114 @@
+.featured-case-study-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+  padding-right: 101px;
+  padding-left: 75px;
+  margin-top: 124px;
+}
+.featured-case-study4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.featured-case-study5 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-top: 7px;
+}
+.featured-case-study-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 44px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px ;
+  font-weight: 400;
+  margin-bottom: -2rem;
+
+  color: #6e6e6e;
+  letter-spacing: -0.02em;
+}
+.featured-case-study2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-top: 65px;
+}
+.case-study-link {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 400 16px Inter;
+  color: #333333;
+  margin-top: -0.5rem;
+  font-family: 'Poppins', sans-serif;
+
+  letter-spacing: -0.02em;
+}
+.svg-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  margin-left: 26.5px;
+}
+.featured-case-study1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-bottom: 6.5px;
+}
+.hero-image {
+  box-sizing: border-box;
+  display: block;
+  width: 150vh;
+  max-width: initial;
+  height: 367px;
+  border: none;
+  border-radius: 4px;
+ 
+}
+/* .img-content-d888a772 {
+  content: url("https://s3-alpha-sig.figma.com/img/ed5b/7989/3fe917670c8b6c76897bd2f9088b1c26?Expires=1698019200&Signature=ZhM58-3acaAPdgvMSmtsy0uzCmNhrkQiQcRR9JUn5XV0KfFf1UGVj5JC-624DGO3nze4RcqZcJY6tPC80xDocWhxSR0o0X5r3MmtfCGls1K15GQEtLHuwAEIBg8BAPW2fTOGDSNX4l59zULldRAlvDgWAVDoKYJSor5ZxDk24m2h7rja1ieOeQB8qC9fld1MRx4VgjnHfhTZa96V7M~4IuWojxz-mxhtMyjdDlAGJwyXWHPdNwDcWi11VUsCNdwvWjlzmXKmkNyc92deSH5SHDaZtzdfSObHcxg1dkRXxYFWRpmz9YmQqOgS6wJAeiqh309SKupoVvZQ9UXcF6m5BQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+} */
+.featured-case-study-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-top: 11.5px;
+}
+.website-description {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 207px;
+  padding-top: 276px;
+  padding-bottom: 62px;
+  font-family: 'Poppins', sans-serif !important;
+  margin-top: -3.5rem;
+  font-size: 10.3px !important;
+
+  font: 400 6px/111.98123168945312% ;
+  color: #a19f9f
+  ;
+  letter-spacing: -0.02em;
+}

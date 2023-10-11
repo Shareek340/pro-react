@@ -1,0 +1,74 @@
+.omnichannel-agency1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+  padding-right: 98px;
+  padding-left: 98px;
+  margin-top: 339px;
+  margin-left: -2rem;
+  margin-right: 2rem;
+}
+.omnichannel-agency-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  align-self: center;
+  justify-content: space-between;
+  padding-left: 2.5px;
+}
+.main-heading {
+  box-sizing: border-box;
+  flex: 0 1 auto;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  margin-left: -1rem;
+
+  color: #333333;
+  letter-spacing: -0.04em;
+}
+.discovery-session-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 2.5px;
+  padding-left: 2.5px;
+}
+.discovery-session-heading3 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  margin-left: 2rem;
+  margin-right: -1rem;
+
+  color: #333333;
+  letter-spacing: -0.05000000000000001em;
+}
+.svg-container3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  margin-left: 34px;
+}
+.golden-border {
+  box-sizing: border-box;
+  margin-left: 2rem;
+  flex: 0 0 auto;
+  width: 280px;
+  margin-top: 18.5px;
+  border-top: 5px solid #ffcc00;
+}

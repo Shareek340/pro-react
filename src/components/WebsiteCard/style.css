@@ -1,0 +1,51 @@
+.apollo-website-design1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.apollo-website-design2 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 35.2vh !important;
+  max-width: initial;
+  height: 33.4vh !important;
+  border: none;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+.apollo-website-design3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 28px;
+}
+.apollo-website-design {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  
+  font-size: 16px !important;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif !important;
+
+  color: #333333;
+  letter-spacing: -0.02em;
+}
+.apollo-website-design-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 5px;
+  font-size: 13px !important;
+  font-weight: 400 !important;
+  font-family: 'Poppins', sans-serif !important;
+
+  color: #b8b8b8;
+  letter-spacing: -0.02em;
+}

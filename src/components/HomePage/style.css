@@ -1,0 +1,51 @@
+.digital-commerce-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-top: 49px;
+  padding-bottom: 80px;
+}
+.level8-digital-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 27px;
+}
+.level8-digital {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-top: 24.5px;
+  font-family: 'Poppins', sans-serif;
+font-size: 110px;
+font-weight: 600;
+  color: #333333;
+  letter-spacing: -0.05000000000000001em;
+}
+.level8-digital-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-bottom: 24.5px;
+  margin-top: 4.5rem;
+
+  margin-left: 19px;
+  font: 500 150px Inter;
+  color: #333333;
+  letter-spacing: -0.05000000000000001em;
+}
+.digital-commerce-section2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 11px;
+  padding-left: 11px;
+  margin-top: 88px;
+}

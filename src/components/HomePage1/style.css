@@ -1,0 +1,19 @@
+.container-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-top: 101px;
+  padding-bottom: 43px;
+  border-bottom: 1px solid rgba(239, 239, 239, 0.5);
+}
+.brand-testimonial-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}

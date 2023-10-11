@@ -1,0 +1,16 @@
+.padding-box {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 2.5px;
+  padding-left: 2px;
+}
+.max-width-box-font-inter-font-size-36-font-weight-500-letter-spacing-negative-0-05em-line-height-95-0422592163086-color-333333 {
+  box-sizing: border-box;
+  max-width: 353px;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+font-weight: 500;
+  color: #333333;
+  letter-spacing: -0.05em;
+  margin-top: -1rem;
+}

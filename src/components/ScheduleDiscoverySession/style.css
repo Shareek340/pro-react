@@ -1,0 +1,30 @@
+.discovery-session-container1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 507px;
+  height: 75px;
+  padding-right: 105px;
+  padding-left: 105px;
+  background: #ffcc00;
+  border-radius: 6px;
+}
+.discovery-session-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-right: 18.5px;
+  font-family: 'Poppins', sans-serif;
+font-size: 16px;
+font-weight: 500;
+  color: #333333;
+  letter-spacing: -0.05em;
+}
+.svg-container11 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+}

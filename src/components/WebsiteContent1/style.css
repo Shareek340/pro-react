@@ -1,0 +1,36 @@
+.website-work1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 37px;
+}
+.website-work {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 400 13px Inter;
+  color: #b8b8b8;
+  letter-spacing: -0.02em;
+}
+.tool-understanding-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 295px;
+  margin-top: 6px;
+  font: 500 24px/95.0422592163086% Inter;
+  color: #333333;
+  letter-spacing: -0.02em;
+}
+.digital-experience-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 27px;
+  font-family: 'Poppins', sans-serif !important;
+font-size: 12px !important;
+font-weight: 500;
+  color: #a09e9e !important;
+  margin-bottom: -1rem !important;
+  letter-spacing: -0.02em;
+}

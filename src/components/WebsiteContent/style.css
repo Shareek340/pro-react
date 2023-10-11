@@ -1,0 +1,44 @@
+.website-work1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 37px;
+}
+.website-work {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+
+  color: #b8b8b8;
+  letter-spacing: -0.02em;
+}
+.tool-understanding-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 295px;
+  margin-top: 6px;
+  font-family: 'Poppins', sans-serif;
+
+  font-size: 24px;
+  font-weight: 600;
+  color: #333333;
+  letter-spacing: -0.02em;
+}
+.digital-experience-text2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  max-width: 362px;
+  margin-top: 27px;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: -1rem;
+
+  color: #a09f9f;
+  letter-spacing: -0.02em;
+}

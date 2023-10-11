@@ -1,0 +1,115 @@
+.digital-level8-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: flex-end;
+  margin-top: 255px;
+  margin-left: 10rem;
+}
+.flex-end-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  margin-left: 25rem !important;
+  margin-right: -14.5rem;
+  
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.big-number-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-top: 23px;
+  font: 600 122px Inter;
+  transform: rotate(270deg);
+  border: 1px black solid;
+  border-bottom: none;
+  margin-top: 1rem !important;
+  margin-bottom: -10rem;
+  color: #adabab;
+  letter-spacing: -0.05em;
+  padding-right: 244px;
+  margin-right: -12.4rem;
+}
+.large-text{
+  background-color: #333333;
+  font-size: 122px !important;
+  padding-right:40px !important;
+  border: 1px black solid;
+  margin-top: -1rem !important;
+  
+}
+
+.large1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 600 72px Inter !important;
+  transform: rotate(270deg);
+  border: 1px black solid;
+  color: white;
+  background: #333333;
+  margin-left: -22rem !important;
+  margin-right: 6rem;
+  margin-top: -20rem !important;
+
+  letter-spacing: -0.05em;
+  padding-top: 3.5rem;
+  padding-bottom: 1rem;
+  padding-right: 324px;
+  
+}
+.large-heading1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-top: 4px;
+  font: 600 122px Inter;
+  transform: rotate(270deg);
+  border: 1px rgb(211, 207, 207) solid;
+  color: #c9c7c7;
+  letter-spacing: -0.05em;
+  padding-right: 550px;
+  padding-top: 3.3rem;
+  margin-left: -29.5rem;
+  border-bottom: none;
+}
+.big-number {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 244px;
+margin-top: -5rem !important;
+  font: 600 122px Inter;
+  transform: rotate(270deg);
+  border: 1px black solid;
+  color: #adabab;
+  letter-spacing: -0.05em;
+  margin-left: -5.9rem;
+}
+.digital-container {
+  box-sizing: border-box;
+  width: 40px;
+  height: 100px;
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 1px;
+  padding-top: 0;
+  background: #333333;
+}
+.level8-digital1 {
+  box-sizing: border-box;
+  
+  width: 40px;
+  font: 600 62px/95.0422592163086% Inter;
+  transform: rotate(270deg);
+  margin-left: -5rem !important;
+  padding-top: 0 !important;
+  
+  color: white;
+  letter-spacing: -0.05em;
+}

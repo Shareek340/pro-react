@@ -1,0 +1,68 @@
+.brand-design-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 102px 99px 98px;
+  margin-top: 121px;
+  background: #333333;
+  border-radius: 6px;
+}
+.brand-testimonial-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.career-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  width: 13.02%;
+  padding: 38px 12.5px 86px;
+}
+.company-experience-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  align-self: stretch;
+  max-width: 197px;
+  font: 500 16px/95.0422592163086% Inter;
+  color: #838080;
+  text-align: right;
+  letter-spacing: -0.03em;
+}
+.company-list {
+  display: flex;
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-right: 3.75px;
+  padding-left: 3.75px;
+  margin-top: 44px;
+}
+.company-list img{
+  margin-right: 1rem;
+}
+
+/* .img-content-59486fc8 {
+  content: url("data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%271738.6800%203885.7000%2066.0000%2026.0000%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20xmlns%3Axlink%3D%27http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%27%20id%3D%2761d41d8b%27%20x%3D%270%27%20y%3D%270%27%3E%3Cg%20id%3D%27Homepage%27%20clip-path%3D%27url%28%23clip0_615_1100%29%27%3E%3Cg%20id%3D%27Group%20310%27%3E%3Cg%20id%3D%27Group%20230%27%3E%3Cpath%20id%3D%27Subtract_3%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M1782.84%203907.54C1787.72%203912.42%201795.63%203912.42%201800.52%203907.54C1805.4%203902.66%201805.4%203894.74%201800.52%203889.86C1795.63%203884.98%201787.72%203884.98%201782.84%203889.86C1777.96%203894.74%201777.96%203902.66%201782.84%203907.54ZM1794.23%203898.84H1786.18L1786.18%203897.73L1794.23%203897.73L1791.31%203894.81L1792.09%203894.03L1796.35%203898.29L1792.09%203902.54L1791.31%203901.76L1794.23%203898.84Z%27%20fill%3D%27%23FFCC00%27%20fill-opacity%3D%270.3%27%2F%3E%3Cpath%20id%3D%27Subtract_4%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M1760.52%203907.54C1755.63%203912.42%201747.72%203912.42%201742.84%203907.54C1737.96%203902.66%201737.96%203894.74%201742.84%203889.86C1747.72%203884.98%201755.63%203884.98%201760.52%203889.86C1765.4%203894.74%201765.4%203902.66%201760.52%203907.54ZM1749.12%203898.84L1757.18%203898.84L1757.18%203897.73L1749.12%203897.73L1752.04%203894.81L1751.26%203894.03L1747.01%203898.29L1751.26%203902.54L1752.04%203901.76L1749.12%203898.84Z%27%20fill%3D%27%23FFCC00%27%20fill-opacity%3D%270.3%27%2F%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fg%3E%3Cdefs%3E%3CclipPath%20id%3D%27clip0_615_1100%27%3E%3Crect%20width%3D%271920%27%20height%3D%278183%27%20fill%3D%27white%27%2F%3E%3C%2FclipPath%3E%3C%2Fdefs%3E%3C%2Fsvg%3E");
+} */
+.testimonial-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 90vw;
+  flex-direction: row;
+  gap: 27px !important;
+  align-items: center;
+ margin-left: -1.5rem;
+  justify-content: space-between;
+  margin-top: 80px;
+}

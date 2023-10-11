@@ -1,0 +1,144 @@
+.technology-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 63px;
+  margin-left: -1rem !important;
+}
+.technology-title {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  color: #919191;
+  letter-spacing: -0.02em;
+}
+.technology-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: 14px;
+}
+.image-container6 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  gap: 41px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 40.68%;
+  height: 75px;
+}
+.image-container11 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+}
+.image-container10 {
+  box-sizing: border-box;
+  display: block;
+  width: 51px;
+  max-width: initial;
+  height: 51px;
+}
+
+.image-container14 {
+  box-sizing: border-box;
+  display: block;
+  width: 39px;
+  max-width: initial;
+  height: 21.5px;
+}
+
+.image-container15 {
+  box-sizing: border-box;
+  display: block;
+  width: 39px;
+  max-width: initial;
+  height: 34px;
+}
+
+.image-container13 {
+  box-sizing: border-box;
+  display: block;
+  width: 49px;
+  max-width: initial;
+  height: 51px;
+}
+
+
+.image-container12 {
+  box-sizing: border-box;
+  display: block;
+  width: 51px;
+  max-width: initial;
+  height: 50px;
+}
+
+.image-container3 {
+  box-sizing: border-box;
+  display: block;
+  width: 45px;
+  max-width: initial;
+  height: 45px;
+}
+
+  
+.discovery-session-wrapper {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 8.38%;
+  height: 75px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.image-container4 {
+  box-sizing: border-box;
+  display: block;
+  width: 74px;
+  max-width: initial;
+  height: 45px;
+}
+
+.discovery-session-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 8.18%;
+  height: 75px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.image-container2 {
+  box-sizing: border-box;
+  display: block;
+  width: 42px;
+  max-width: initial;
+  height: 45px;
+}
+
+.discovery-session1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 37.75%;
+  padding-right: 15px;
+  padding-left: 15px;
+}

@@ -1,0 +1,46 @@
+.apollo-website-design1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.apollo-website-design2 {
+  box-sizing: border-box;
+  display: block;
+  flex: 0 0 auto;
+  width: 304px;
+  max-width: initial;
+  height: 304px;
+  border: none;
+  border-radius: 4px;
+  object-fit: cover;
+}
+.img-content-628edc78 {
+  content: url("https://s3-alpha-sig.figma.com/img/6769/d8d9/9cbb147375b646608b7d0b96c6dd91c9?Expires=1698019200&Signature=SrF7vU7Sc-xCpQxEeWG2yyd1KOe9QpOv1IXDPEjX5EBtsMaMg13gtPW2XYmW7NsHDHtmJXaXrInhMgfAuf09eM-TVzQVK7PXeNPQK-1H5VduQSYCQCb4I7JY85wdKSpZAirynGDL7z97UW~nAHmL9QE6W8ti2DWknS66DOn8IqYaANgKd~AWMi~bmCRDsRz-To-nTUCT0o0viZBD-rUluFSV8p6QolFO1hpCq7r9eVnkIrsV9xGSVoF9hudVlSQBecZM0uD-g12N9DeggiYVZZk~zz-VOufUUfxX8rSu7IuPky-X7508csz5fLc80Im4TtgQyVTP9TMIUlaoYDwHhQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4");
+}
+.apollo-website-design3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  margin-top: 28px;
+}
+.apollo-website-design {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 16px Inter;
+  color: #333333;
+  letter-spacing: -0.02em;
+}
+.apollo-website-design-text {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 5px;
+  font: 400 13px Inter;
+  color: #b8b8b8;
+  letter-spacing: -0.02em;
+}

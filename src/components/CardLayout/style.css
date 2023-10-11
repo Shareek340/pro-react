@@ -1,0 +1,12 @@
+.project-card {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  width: 150vh;
+
+  margin-left: 7rem !important;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+}

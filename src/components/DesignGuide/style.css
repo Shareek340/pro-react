@@ -1,0 +1,26 @@
+.digital-experience {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 308px;
+  margin-left: 47px;
+  margin-top: -13rem;
+}
+.digital-commerce-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 36px/95.0422592163086% Inter;
+  color: #333333;
+  letter-spacing: -0.05em;
+}
+.digital-commerce-success1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 31px;
+  font: 400 16px/111.98123168945312% Inter;
+  color: #6e6e6e;
+  letter-spacing: -0.02em;
+}

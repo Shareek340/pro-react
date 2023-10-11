@@ -1,0 +1,120 @@
+.digital-commerce-section1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.digital-commerce-section3 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  
+  align-items: flex-start;
+  align-self: stretch;
+  justify-content: space-between;
+  padding-left: 89px;
+}
+.website-work-section {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  width: 350px !important;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 228px;
+}
+.digital-experience-card2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-bottom: 21px !important;
+}
+
+
+.discovery-session2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 52px;
+}
+.discovery-session-heading2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font: 500 16px Inter;
+  color: #333333;
+  letter-spacing: -0.05em;
+}
+.digital-experience-card2 img{
+  width: 305px !important;
+  height: 255px;
+}
+.svg-container4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  margin-left: 18.5px;
+}
+.sidebar {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  height: 752px;
+  border-left: 1px solid #dedede;
+}
+
+
+.digital-experience-card1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-bottom: 41px;
+}
+
+
+.discovery-session {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 2.25px;
+  padding-left: 2.25px;
+  margin-top: 52px;
+}
+.digital-experience-card {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-bottom: 41px;
+}
+
+.discovery-session-container4 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding-right: 3.25px;
+  padding-left: 3.25px;
+  margin-top: 52px;
+}

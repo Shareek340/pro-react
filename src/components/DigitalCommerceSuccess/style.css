@@ -1,0 +1,30 @@
+.digital-commerce-success {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1 1 0;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  max-width: 308px;
+  margin-top: -13rem;
+}
+.digital-commerce-heading {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+font-weight: 500;
+  color: #333333;
+  letter-spacing: -0.05em;
+}
+.digital-commerce-success1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-top: 1px !important;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+
+  color: #6e6e6e;
+  letter-spacing: -0.02em;
+}

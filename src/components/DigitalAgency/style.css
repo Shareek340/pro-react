@@ -1,0 +1,32 @@
+.omnichannel-agency {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-left: 7rem;
+}
+.omnichannel-agency-description {
+  box-sizing: border-box;
+  flex: 1 1 0;
+  width: 435px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+
+  color: #b8b8b8;
+  letter-spacing: -0.05em;
+}
+.digital-experience-text1 {
+  box-sizing: border-box;
+  flex: 1 1 0;
+  margin-left: 88px;
+  margin-right: -2rem;
+  width: 435px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  color: #b8b8b8;
+  letter-spacing: -0.05em;
+}

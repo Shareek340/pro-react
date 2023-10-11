@@ -1,0 +1,26 @@
+.apollo-website-design1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+.image-container8 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-right: -1rem;
+}
+.image-container8 img{
+  width: 120px ;
+  height: 30px;
+  margin-left: 4rem;
+}
+.logo-image {
+  box-sizing: border-box;
+  display: block;
+  width: 197px;
+  max-width: initial;
+  height: 53px;
+}
+

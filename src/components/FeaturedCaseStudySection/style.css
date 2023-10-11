@@ -1,0 +1,33 @@
+.flex-container2 {
+  box-sizing: border-box;
+  width: 40vh;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.featured-case-study {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: -0.2rem;
+
+  
+  color: #b8b8b8;
+  letter-spacing: -0.02em;
+}
+.featured-case-study3 {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+  flex: 0 0 auto;
+  max-width: 359px;
+  margin-top: 18px;
+  margin-bottom: -.5rem;
+  font: 500 36px/95.0422592163086% Inter;
+  color: #333333;
+  letter-spacing: -0.02em;
+}

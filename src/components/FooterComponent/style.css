@@ -1,0 +1,56 @@
+.header-container2 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  height: 123px;
+}
+.header-container {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 62.25%;
+  padding-top: 33px;
+}
+.level8-digital2 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  padding-top: 4.5px;
+  font: 600 30.5px Inter;
+  color: #919191;
+  letter-spacing: -0.05em;
+}
+.level8-digital-text1 {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  margin-left: 3.25px;
+  font: 500 30.5px Inter;
+  color: #919191;
+  letter-spacing: -0.05em;
+}
+.discovery-session1 {
+  box-sizing: border-box;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  width: 37.75%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.copyright-text {
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
+  color: #919191;
+  letter-spacing: -0.02em;
+  margin-left: -4rem;
+}
