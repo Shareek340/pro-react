@@ -8,7 +8,7 @@ function AmbitiousCompanies() {
         The
         <br />
         Most Ambitious <br />
-        Companies Hire Us
+        Companies Hire Us.
       </p>
     </div>
   );
