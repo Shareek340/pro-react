@@ -1,6 +1,6 @@
 .brand-design-container {
   box-sizing: border-box;
-  width: 98vw;
+  width: 99vw;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -10,7 +10,6 @@
   padding: 102px 99px 98px;
   margin-top: 121px;
   background: #333333;
-  border-radius: 6px;
 }
 .brand-testimonial-section {
   box-sizing: border-box;
