@@ -32,7 +32,7 @@
   box-sizing: border-box;
   flex: 0 0 auto;
   margin-top: 44px;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif !important;
   font-size: 14px ;
   font-weight: 400;
   margin-bottom: -2rem;
@@ -54,10 +54,11 @@
 .case-study-link {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font: 400 16px Inter;
   color: #333333;
   margin-top: -0.5rem;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 16px;
+  font-weight: 400;
 
   letter-spacing: -0.02em;
 }
@@ -106,8 +107,8 @@
   font-family: 'Poppins', sans-serif !important;
   margin-top: -3.5rem;
   font-size: 10.3px !important;
+  font-weight: 400;
 
-  font: 400 6px/111.98123168945312% ;
   color: #a19f9f
   ;
   letter-spacing: -0.02em;
