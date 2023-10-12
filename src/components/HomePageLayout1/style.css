@@ -55,7 +55,9 @@
 .discovery-session-heading2 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font: 500 16px Inter;
+  font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 500;
   color: #333333;
   letter-spacing: -0.05em;
 }
