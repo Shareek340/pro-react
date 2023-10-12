@@ -11,7 +11,9 @@
   box-sizing: border-box;
   flex: 0 0 auto;
   width: 231px;
-  font: 500 10.5px/112.39437866210938% Inter;
+  font-size: 9px ;
+  font-family: 'Poppins', sans-serif;
+font-weight: 500;
   color: #dedede;
   letter-spacing: -0.02em;
 }
@@ -35,14 +37,20 @@
 .branding-services-title {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font: 500 12px Inter;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+
   color: white;
   letter-spacing: -0.03em;
 }
 .ceo-name {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font: 500 12px Inter;
+  font-family: 'Poppins', sans-serif;
+
+  font-size: 12px;
+  font-weight: 500;
   color: white;
   text-align: right;
   letter-spacing: -0.03em;

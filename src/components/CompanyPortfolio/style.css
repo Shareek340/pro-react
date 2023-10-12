@@ -1,5 +1,6 @@
 .brand-design-container {
   box-sizing: border-box;
+  width: 98vw;
   display: flex;
   flex: 0 0 auto;
   flex-direction: column;
@@ -58,7 +59,7 @@
   box-sizing: border-box;
   display: flex;
   flex: 0 0 auto;
-  width: 90vw;
+  width: 85vw;
   flex-direction: row;
   gap: 27px !important;
   align-items: center;

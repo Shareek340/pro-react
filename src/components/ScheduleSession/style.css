@@ -17,10 +17,10 @@
   padding-right: 2.5px;
   padding-left: 2.5px;
 }
-.discovery-session-heading1 {
+.discovery-session-heading2 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif !important;
 font-size: 20px;
 font-weight: 500;
   color: #333333;
@@ -28,6 +28,7 @@ font-weight: 500;
   margin-left: -0.1rem !important;
   margin-right: -1rem !important;
   margin-top: -1rem;
+  margin-left: 9rem !important;
 }
 .svg-container {
   box-sizing: border-box;

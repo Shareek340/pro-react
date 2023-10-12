@@ -12,7 +12,9 @@
 .digital-commerce-heading {
   box-sizing: border-box;
   flex: 0 0 auto;
-  font: 500 36px/95.0422592163086% Inter;
+  font-family: 'Poppins', sans-serif !important;
+font-size: 25px;
+font-weight: 500;
   color: #333333;
   letter-spacing: -0.05em;
 }
@@ -20,7 +22,9 @@
   box-sizing: border-box;
   flex: 0 0 auto;
   margin-top: 31px;
-  font: 400 16px/111.98123168945312% Inter;
+  font-family: 'Poppins', sans-serif;
+font-size: 12px;
+font-weight: 400;
   color: #6e6e6e;
   letter-spacing: -0.02em;
 }
