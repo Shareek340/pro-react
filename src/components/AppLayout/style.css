@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
 .main-container {
   box-sizing: border-box;
   display: flex;
@@ -7,3 +12,4 @@
   max-width: 1920px;
   background: white;
 }
+

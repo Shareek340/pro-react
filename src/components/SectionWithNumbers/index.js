@@ -12,7 +12,7 @@ function SectionWithNumbers() {
         <p className={`large-heading1`}>05</p>
         <p className={`large-heading1`}>06</p>
         <p className={`large-heading1`}>07</p>
-        <p className={`large-heading1 large-text`}>Level8Digital</p>
+        <p className={`large-text`}>Level8Digital</p>
       </div>
       
     </div>
