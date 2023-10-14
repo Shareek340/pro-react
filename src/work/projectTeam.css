@@ -1,0 +1,35 @@
+.project-team {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 19.01%;
+    padding-right: 15px;
+    padding-bottom: 31.5px;
+    padding-left: 15px;
+  }
+  .project-team-work {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+
+    color: #a09f9f;
+    letter-spacing: -0.02em;
+    width: 300px !important;
+  }
+  .work-name {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 146px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 500;
+    color: #333333;
+    letter-spacing: -0.02em;
+  }
+  

@@ -1,0 +1,34 @@
+.digital-experience-work {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    width: 50.58%;
+    padding-right: 15px;
+    padding-bottom: 10.5px;
+    padding-left: 15px;
+  }
+  .project-work-title {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font-family: 'Poppins', sans-serif;
+font-size: 13px;
+font-weight: 500;
+    color:
+    rgba(51, 51, 51, 0.5);
+    letter-spacing: -0.02em;
+  }
+  .digital-work-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    max-width: 362px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+font-size: 13px;
+font-weight: 400;
+color: #333333 !important;
+
+    letter-spacing: -0.02em;
+  }

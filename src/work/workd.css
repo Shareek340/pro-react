@@ -1,0 +1,53 @@
+.work-D{
+    display: flex;
+    gap: 40px;
+    background: rgba(51, 51, 51, 1);
+    height: 486px;
+    padding: 3px;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+.works1{
+    color: white;
+}
+.workds{
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+.branding-work1{
+    color: rgba(255, 255, 255, 1) !important;
+    font-size: 24px !important;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.work1{
+    display: flex;
+    gap: 20px;
+}
+.w-image img{
+    width: 300px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+}
+.case-work-title1{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 4.8rem;
+
+}
+.case-work-title1 img{
+    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-bottom: -0.5rem;
+}
+.image-work1{
+    width: 30px;
+    height: 30px !important;
+    margin-left: 8rem !important;
+    margin-top: -5rem !important;
+    margin-bottom: 1.5rem;
+}
