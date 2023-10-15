@@ -1,0 +1,92 @@
+.office-contact-section {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    align-items: stretch;
+    justify-content: center;
+    height: 540px;
+    min-width: 641px;
+
+    padding: 79px 48px 82px 94px;
+    background: #333333;
+  }
+  .address{
+    display: flex;
+    width: 98vw !important;
+    height: 500px;
+    margin-top: 6rem !important;
+
+  }
+  .Address-text{
+    width: 50vw !important;
+  }
+  .office-divider {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    width: 270px;
+    border-top: 5px solid #ffcc00;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+  }
+  .office-location-container {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding-right: 2.5px;
+    padding-left: 2.5px;
+  }
+  .max-width-378-box-sizing-border-box-font-family-inter-font-size-36-font-weight-500-letter-spacing-minus-0-02em-line-height-95-0422592163086-color-white {
+    box-sizing: border-box;
+    max-width: 378px;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+font-weight: 500;
+    color: white;
+    letter-spacing: -0.02em;
+    margin-top: -2rem;
+    margin-bottom: -1rem;
+    
+  }
+  .office-location-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding-right: 2.5px;
+    padding-left: 2.5px;
+    margin-top: -8.5px;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+font-weight: 400;
+    color: #6e6e6e;
+    letter-spacing: -0.02em;
+    margin-bottom: -2rem;
+  }
+  .contact-info-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding-right: 2.5px;
+    padding-left: 2.5px;
+    margin-top: 70px;
+  }
+  .email-text {
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+font-weight: 500;
+    color: white;
+    letter-spacing: -0.02em;
+    margin-top: -0.5rem;
+  }
+  .svg-container {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 0 auto;
+    width: 32px;
+    height: 32px;
+    margin-left: 12.5px;
+  }
+  

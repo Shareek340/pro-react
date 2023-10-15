@@ -5,6 +5,7 @@ import './App.css';
 import AppLayout from "./components/AppLayout";
 import WorkPage from './work/WorkPage';
 import Homework from './work/Homework';
+import Homecontact from './Contact/Homecontact';
 
 
 
@@ -17,6 +18,7 @@ function App() {
         <Routes>
           <Route index element={<AppLayout />} />
           <Route path="/Next" element={<Homework />} />
+          <Route path='/contact' element ={<Homecontact/>}/>
          
         </Routes>
       </BrowserRouter>

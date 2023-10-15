@@ -1,0 +1,72 @@
+.contact-form{
+    margin-top: 10rem;
+    display: flex;
+    align-items: center;
+
+    width: 98vw;
+    gap: 20px;
+}
+.contact-text{
+    width: 60vw;
+    margin-left: 4rem;
+}
+.contact-text h1{
+    font-size: 36px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+
+    height: 82px;
+    line-height: 41px;
+    letter-spacing: -2%;
+    margin-bottom: 5rem;
+
+}
+.contact-text label{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+font-weight: 500;
+margin-bottom: 3rem !important;
+line-height: 16px;
+letter-spacing: -2%;
+}
+.contact-text input , .contact-text textarea{
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+    padding: 1rem 25rem 1.5rem 0rem;
+    border: none;
+    border-bottom: 1px rgb(201, 200, 200) solid !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+}
+.contact-text ::placeholder{
+    visibility: visible;
+    width: 25rem;
+    color: rgba(51, 51, 51, 0.2);
+}
+.contact-text button {
+    width: 580px;
+    height: 80px;
+    margin-top: 1rem;
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    border-radius: 6px;
+    border: none;
+
+    
+    background-color: 
+    rgba(255, 204, 0, 1);
+
+}
+.contact-text button img{
+    margin-left: 1rem;
+    margin-bottom: -0.5rem;
+    
+}
+.contact-image img{
+    width: 450px;
+    
+    margin-bottom: -23rem;
+    margin-left: 5rem !important;
+    margin-right: -1rem;
+}
