@@ -18,12 +18,12 @@ function WorkPage() {
               <p class="brand-work">®</p>
             </div>
             <div class="navigation-work">
-            <a href="#"  className={`navigation-link`}>Home</a>
-          <a href="#" className={`navigation-link`}>Services</a>
-          <a href="/next" className={`navigation-link`}>Work</a>
-          <a href="#" className={`navigation-link`}>About</a>
-          <a href="#" className={`navigation-link`}>Blog</a>
-          <a href="/contact" className={`navigation-link`}>Contact</a>
+            <a href="#"  className={`navigation-link navbar-work`}>Home</a>
+          <a href="#" className={`navigation-link navbar-work`}>Services</a>
+          <a href="/next" className={`navigation-link navbar-work`}>Work</a>
+          <a href="#" className={`navigation-link navbar-work`}>About</a>
+          <a href="#" className={`navigation-link navbar-work`}>Blog</a>
+          <a href="/contact" className={`navigation-link navbar-work`}>Contact</a>
             </div>
             <p class="contact-work">Let’s Talk</p>
           </div>
