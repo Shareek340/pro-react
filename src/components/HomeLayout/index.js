@@ -20,7 +20,7 @@ function HomeLayout() {
           <a href="/next" className={`navigation-link`}>Work</a>
           <a href="#" className={`navigation-link`}>About</a>
           <a href="#" className={`navigation-link`}>Blog</a>
-          <a href="#" className={`navigation-link`}>Contact</a>
+          <a href="/contact" className={`navigation-link`}>Contact</a>
         </div>
       </div>
       <div className={`discovery-section`}>
