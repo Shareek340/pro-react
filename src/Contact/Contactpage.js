@@ -17,7 +17,7 @@ function Contactpage() {
               <p class="brand-work">®</p>
             </div>
             <div class="navigation-work">
-              <a href="#" class="navbar-work">Home</a>
+              <a href="#" class="navbar-work ">Home</a>
               <a href="#" class="navbar-work">Services</a>
               <a href="/next" class="navbar-work">Work</a>
               <a href="#" class="navbar-work">About</a>
