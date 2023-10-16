@@ -28,3 +28,19 @@ font-weight: 500;
   color: #6e6e6e;
   letter-spacing: -0.02em;
 }
+@media only screen and (max-width: 767px) {
+.digital-commerce-success{
+  margin-bottom: 13rem;
+  
+  width: 600px;
+  margin-top: 2px;
+  margin-top: -10rem;
+}
+.digital-commerce-heading{
+  font-size: 16px !important;
+}
+.digital-commerce-success1{
+  font-size: 12px;
+}
+}
+

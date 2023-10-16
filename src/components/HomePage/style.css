@@ -49,3 +49,25 @@ font-weight: 600;
   padding-left: 11px;
   margin-top: 88px;
 }
+@media only screen and (max-width: 767px) {
+  .level8-digital-container{
+    margin-left: -4rem;
+    margin-bottom: 3rem;
+    margin-top: -1rem;
+  }
+  .level8-digital{
+    font-size: 2.5rem;
+
+  }
+  .level8-digital-text{
+    font-size: 2rem;
+    
+    margin-top: -0.1rem;
+    margin-top: 2.8rem;
+    margin-left: -0.3rem;
+  }
+  .digital-commerce-section2{
+    margin-left: -4rem;
+    flex-direction: column;
+  }
+}
