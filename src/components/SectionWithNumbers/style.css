@@ -57,3 +57,35 @@
   padding: 15px;
 }
 
+@media only screen and (max-width: 767px) {
+  .flex-end-container{
+    flex-direction: column !important;
+    margin-left: 10rem !important;
+  }
+  .large-heading1, .large-text{
+    transform: none;
+    margin: 0 !important;
+    padding-right: -10rem !important;
+    
+   
+   font-size: 30px !important;
+  }
+  .large-text{
+    transform: none;
+    margin: 0 !important;
+    padding-right: -10rem !important;
+    
+   
+   font-size: 20px !important;
+   
+   text-align: start;
+  }
+  .digital-level8-container{
+    margin-left: 16rem;
+    width: 450px;
+    margin-top: -5rem;
+    margin-top: 5rem;
+  }
+}
+
+

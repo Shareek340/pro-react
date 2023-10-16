@@ -79,3 +79,29 @@
   border-top: 5px solid #ffcc00;
   margin-left: -7rem;
 }
+@media only screen and (max-width: 767px) {
+  .omnichannel-agency-container{
+    flex-direction: column;
+  }
+  .main-heading{
+    margin-left: -23rem !important;
+    margin-right: -6rem;
+    margin-bottom: 3rem;
+  }
+  .omnichannel-agency-container{
+    margin-left: 2rem;
+    margin-right: -8rem;
+    margin-top: -12rem;
+  }
+  .discovery-session-container{
+    margin-top: -23rem;
+    margin-bottom: 5rem;
+    margin-left: -16.5rem;
+  }
+  .golden-border{
+    margin-top: -5rem;
+    margin-bottom: 15rem;
+    margin-left: -14.5rem;
+  }
+
+}

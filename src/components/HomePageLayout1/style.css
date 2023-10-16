@@ -124,4 +124,21 @@ font-weight: 500;
   padding-left: 3.25px;
   margin-top: 52px;
 }
+@media only screen and (max-width: 767px) {
+  .website-work-section{
+    flex-direction: column;
+    margin-left: -3rem;
+    margin-left: 4rem;
+    margin-bottom: 5rem;
+  }
+  .digital-experience-card2 {
+   margin-bottom: -15rem !important;
+  }
+  .sidebar{
+    margin-top: -30rem;
+    border: none;
+  }
+  
+}
+
 
