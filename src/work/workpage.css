@@ -149,4 +149,39 @@ font-weight: 500;
  
  
  
+ @media only screen and (max-width: 767px) {
+   .navigation-work{
+      gap: 8px;
+      margin-right: -25rem;
+      margin-top: 5rem !important;
+      margin-bottom: -2rem;
+      
+
+      
+   }
+   .navbar-work{
+      border-right:  1px solid black;
+      padding-right: 5px;
+      font-size: 8px;
+   }
+   .hero-section1{
+max-width: 760px;
+      height: 450px;
+   }
+   .header-work, .brand-work{
+      margin-right: -10rem;
+      margin-left: 4rem !important;
+      font-size: 16px;
+      
+   }
+   .brand-work{
+      margin-left: 10rem !important;
+   }
+   .flex-work{
+      
+   }
+   .contact-work{
+      margin-left: -3rem;
+   }
+ }
  
