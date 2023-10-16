@@ -32,3 +32,14 @@
   color: #333333;
   letter-spacing: -0.02em;
 }
+@media only screen and (max-width: 767px) {
+  .featured-case-study{
+    font-size: 10px;
+    margin-top: -0.5rem;
+  }
+  .featured-case-study3{
+    font-size: 15px;
+    width: 300px;
+  }
+}
+

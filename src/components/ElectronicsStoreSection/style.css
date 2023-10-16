@@ -113,3 +113,32 @@
   ;
   letter-spacing: -0.02em;
 }
+@media only screen and (max-width: 767px) {
+  .featured-case-study-container{
+    flex-direction: column;
+    margin-top: -3rem;
+    margin-left: -2.5rem;
+    
+  }
+  .featured-case-study4{
+    flex-direction: column-reverse;
+  }
+  .featured-case-study1 img{
+    width: 400px !important;
+    height: 200px;
+  }
+  .featured-case-study-text{
+    font-size: 12px;
+    width: 400px !important;
+  }
+  .case-study-link{
+    margin-top: -1rem;
+    color: #333333;
+    font-size: 12px;
+  }
+  .featured-case-study-section{
+    flex-direction: column;
+    margin-top: -10rem;
+  }
+}
+

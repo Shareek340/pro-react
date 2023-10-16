@@ -67,3 +67,35 @@
   height: 32px;
   margin-left: 8.5px;
 }
+@media only screen and (max-width: 767px) {
+  .retail-chain-info{
+    width: 450px;
+    margin-left: -1rem;
+    height: 150px;
+    border-radius: 0;
+  }
+  .max-width-box-sizing-font-family-font-size-font-weight-letter-spacing-line-height-color{
+    font-size: 14px;
+    margin-top: -1rem;
+  }
+  .retail-chain-info2{
+    margin-left: -4rem;
+  }
+  .yellow-border-box{
+    margin-left: -4rem;
+    margin-top: -4rem;
+  }
+  .retail-chain-description{
+    margin-left: -4rem;
+  }
+  .retail-description{
+    font-size: 12px;
+    width: 400px;
+    margin-top: -1rem ;
+  }
+  .services-container{
+    margin-left: -4rem;
+    margin-top: -0.5rem;
+  }
+}
+
