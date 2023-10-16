@@ -28,3 +28,27 @@ font-weight: 500;
   width: 32px;
   height: 32px;
 }
+@media only screen and (max-width: 767px) {
+  .discovery-session-container1{
+    width: 200px !important;
+    padding-left: 0 !important;
+    padding-right: -3rem !important;
+    background: none !important;
+    
+    justify-content: flex-start;
+    margin-top: -3rem;
+  }
+  .discovery-session-heading{
+    font-size: 12px !important;
+    color: #c99c09;
+    margin-left: 1.58rem;
+   
+   
+  }
+  .svg-container11{
+    margin-right: 3rem;
+    background-color: #ffcc00;
+    width: 20px;
+    height: 20px;
+  }
+}

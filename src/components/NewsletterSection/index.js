@@ -1,4 +1,3 @@
-import { useCallback, useState, forwardRef } from "react";
 import NewsletterSubscription from "../NewsletterSubscription";
 import "./style.css";
 

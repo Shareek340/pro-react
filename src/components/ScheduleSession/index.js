@@ -6,8 +6,8 @@ function ScheduleSession() {
   return (
     <div className={`discovery-session-container3`}>
       <div className={`discovery-session-container`}>
-        <p className={`discovery-session-heading7`}>Schedule A Free Discovery Session</p>
-        <a href="#"><SvgIcon1 className="svg-container" /></a>
+        <p className={`discovery-session-heading7 svg-div1`}>Schedule A Free Discovery Session</p>
+        <a href="#"><SvgIcon1 className="svg-container svg-div" /></a>
       </div>
       <div className={`discovery-session-divider`} />
     </div>

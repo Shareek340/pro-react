@@ -42,3 +42,20 @@
   color: #a09f9f;
   letter-spacing: -0.02em;
 }
+@media only screen and (max-width: 767px) {
+  .website-work{
+    font-size: 12px;
+    margin-top: -1rem;
+  }
+  .tool-understanding-title{
+    font-size: 14px;
+    margin-top: -0.5rem;
+  }
+  .digital-experience-text2 , .digital-experience-text{
+    font-size: 12px;
+    width: 300px !important;
+    margin-top: -0.5rem;
+  }
+
+
+}

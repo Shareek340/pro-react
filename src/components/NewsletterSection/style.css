@@ -21,3 +21,11 @@ font-weight: 500;
   letter-spacing: -0.02em;
   margin-left: -4rem;
 }
+@media only screen and (max-width: 767px) {
+  .newsletter-disclaimer{
+    width: 320px !important;
+    margin-left: -4.5rem;
+
+  }
+}
+
