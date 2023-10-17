@@ -171,6 +171,75 @@ font-weight: 500;
   .img-content-cb1bc4af {
     content: url("data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%271769.5575%201402.7075%2050.9450%2050.9450%27%20x%3D%270%27%20y%3D%270%27%20fill%3D%27none%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%3E%3Cpath%20id%3D%27Subtract_4%27%20fill-rule%3D%27evenodd%27%20clip-rule%3D%27evenodd%27%20d%3D%27M1777.37%201445.84C1787.12%201455.59%201802.93%201455.59%201812.69%201445.84C1822.44%201436.08%201822.44%201420.27%201812.69%201410.52C1802.93%201400.77%201787.12%201400.77%201777.37%201410.52C1767.62%201420.27%201767.62%201436.08%201777.37%201445.84ZM1800.13%201428.45H1784.05V1426.25L1800.13%201426.25L1794.3%201420.41L1795.86%201418.85L1804.36%201427.35L1795.86%201435.85L1794.3%201434.29L1800.13%201428.45Z%27%20fill%3D%27%236E6E6E%27%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%2F%3E%3C%2Fsvg%3E");
   }
+  /* Default styles for larger screens */
+.Project-work {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-top: 6rem;
+}
+
+.Project-work img {
+  height: 400px;
+}
+
+
+/* Styles for screens smaller than 769px (typical mobile screens) */
+@media (max-width: 768px) {
+  .Project-work {
+    padding: 20px; /* Adjust padding for mobile screens */
+  }
+
+  .Project-work img {
+    width: 100%; /* Make the image responsive */
+    height: auto;
+  }
+
+  .project-WorkS-container, .project-type {
+    width: 100%; /* Allow full width for text */
+  }
+
+  .branding-work {
+    margin-top: 1rem; /* Adjust margin for spacing */
+  }
+  .project-team-title{
+    font-size: 8px !important;
+    margin-top: -2rem;
+    margin-bottom: -2px !important;
+  }
+  .project-duration{
+    font-size: 7px !important;
+  }
+  .apollo-WorkS-design-title{
+    font-size: 14px !important;
+    margin-top: -1rem;
+    margin-bottom: -1rem !important;
+  }
+  .project-WorkS{
+    font-size: 8px !important;
+  }
+  .project-details1{
+    margin-left: -10rem;
+    margin-top: -6rem;
+  }
+  .case-work-title{
+    font-size: 12px !important;
+    margin-top: -1.5rem;
+  }
+  .image-container10{
+    margin-bottom: -22rem;
+    width: 1rem;
+  }
+  .Project-work{
+    margin-bottom: -8rem;
+  }
+  /* Add other mobile-specific styles as needed */
+}
+
   
   
   

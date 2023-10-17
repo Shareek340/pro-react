@@ -32,3 +32,15 @@ color: #333333 !important;
 
     letter-spacing: -0.02em;
   }
+  @media (max-width: 768px){
+    .digital-experience-work{
+      margin-top: -2rem;
+    }
+    .project-work-title{
+      font-size: 8px !important;
+      margin-bottom: -2px;
+    }
+    .digital-work-text{
+      font-size: 6px !important;
+    }
+  }

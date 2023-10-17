@@ -32,4 +32,16 @@ font-weight: 500;
     color: #333333;
     letter-spacing: -0.02em;
   }
-  
+  @media (max-width: 768px){
+
+    .project-team-work{
+      font-size: 8px !important;
+      margin-bottom: -2px !important;
+    }
+    .work-name{
+      font-size: 6px !important;
+    }
+    .project-team{
+      margin-top: -2rem;
+    }
+  }
