@@ -70,3 +70,38 @@ letter-spacing: -2%;
     margin-left: 5rem !important;
     margin-right: -1rem;
 }
+@media only screen and (max-width: 767px){
+    .contact-form{
+        margin-top: 10rem !important;
+        flex-direction: column;
+        margin-left: -4rem;
+    }
+    .contact-text{
+        
+        margin-left: -2rem;
+        margin-bottom: -50rem !important;
+    }
+    .contact-text h1{
+        font-size: 16px !important;
+        margin-bottom: -0.1rem !important;
+        line-height: 15px !important;
+    }
+    .contact-text label{
+        margin-bottom: -1rem !important;
+    }
+    .contact-text input{
+        padding: 0 !important;
+        margin-top: -2rem;
+        padding-right: 5rem !important;
+    }
+    .contact-text input::placeholder{
+        font-size: 10px;
+    }
+    .contact-text button{
+        width: 250px;
+        height: 50px !important;
+    }
+    .contact-image{
+        visibility: hidden;
+    }
+}

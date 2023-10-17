@@ -60,12 +60,14 @@
 @media only screen and (max-width: 767px) {
   .flex-end-container{
     flex-direction: column !important;
-    margin-left: 10rem !important;
+    margin-left: 6rem !important;
+    margin-right: 1.5rem;
+    max-width: 760px;
   }
   .large-heading1, .large-text{
     transform: none;
     margin: 0 !important;
-    padding-right: -10rem !important;
+    padding-right: -14rem !important;
     
    
    font-size: 30px !important;
@@ -73,7 +75,9 @@
   .large-text{
     transform: none;
     margin: 0 !important;
-    padding-right: -10rem !important;
+    padding-right: -8rem !important;
+    margin-left: -1rem !important;
+    margin-right: 2rem !important;
     
    
    font-size: 20px !important;

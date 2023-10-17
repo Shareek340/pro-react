@@ -13,7 +13,7 @@ function EqualityAdvocate() {
         </p>
         <DigitalAgency />
       </div>
-      <div className={`discovery-session-container`}>
+      <div className={`discovery-session-container dis-ses-con`}>
         <p className={`discovery-session-heading3`}>Browse Our Entire Collection of Articles</p>
         <SvgIcon1 className="svg-container3" />
       </div>

@@ -30,8 +30,8 @@ font-weight: 600;
 .level8-digital-text {
   box-sizing: border-box;
   flex: 0 0 auto;
-  padding-bottom: 24.5px;
-  margin-top: 4.5rem;
+  padding-bottom: 8rem;
+  margin-top: -1.5rem;
 
   margin-left: 19px;
   font: 500 150px Inter;
@@ -63,7 +63,7 @@ font-weight: 600;
     font-size: 2rem;
     
     margin-top: -0.1rem;
-    margin-top: 2.8rem;
+    margin-top: 0.8rem;
     margin-left: -0.3rem;
   }
   .digital-commerce-section2{
