@@ -18,6 +18,27 @@ background-image: url('../assets/img.png');
 
 background-blend-mode: normal, color;
  }
+ .work-hero{
+  margin-left: -30rem;
+  margin-top: -2rem;
+  margin-bottom: 2rem;
+ }
+ .gold-white{
+  color: white;
+ }
+ .work-menu a{
+  color: white;
+ }
+ .work-menu{
+  margin-left: 25rem !important;
+ }
+ .talk{
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-left: 15rem;
+  margin-right: -20rem;
+ }
  
  .flex-work {
     box-sizing: border-box;
@@ -143,6 +164,103 @@ font-weight: 500;
    width: 55px;
    height: 55px;
    margin-left: -2rem;
+ }
+ 
+ @media (max-width: 768px) {
+   .hero-section1 {
+     padding: 20px; /* Adjust padding for mobile */
+     max-width: 760px !important;
+     height: 250px !important;
+   }
+ 
+   .flex-work {
+     flex-direction: column; /* Change to column layout for mobile */
+     align-items: center; /* Center-align for mobile */
+     gap: 10px; /* Adjust gap for mobile */
+     padding: 10px; /* Adjust padding for mobile */
+   }
+ 
+   .header-work {
+     font-size: 28px; /* Decrease font size for mobile */
+     text-align: center; /* Center-align for mobile */
+     margin: 0; /* Reset margins for mobile */
+   }
+ 
+   .brand-work {
+     font-size: 20px; /* Decrease font size for mobile */
+     text-align: center; /* Center-align for mobile */
+     margin: 0; /* Reset margins for mobile */
+   }
+ 
+   .navigation-work {
+     flex-direction: column; /* Change to column layout for mobile */
+     align-items: center; /* Center-align for mobile */
+     gap: 10px; /* Adjust gap for mobile */
+     margin: 1rem 0; /* Adjust margins for mobile */
+   }
+ 
+   .navbar-work {
+     font-size: 18px; /* Adjust font size for mobile */
+     text-align: center; /* Center-align for mobile */
+     margin: 0.5rem 0; /* Adjust margins for mobile */
+   }
+ 
+   .contact-work {
+     font-size: 18px; /* Adjust font size for mobile */
+     text-align: center; /* Center-align for mobile */
+     margin: 1rem 0; /* Adjust margins for mobile */
+   }
+ 
+   .work-title {
+     font-size: 50px; /* Decrease font size for mobile */
+     text-align: center; /* Center-align for mobile */
+     margin: 1rem 0; /* Adjust margins for mobile */
+   }
+ 
+   .image-container10 img {
+     width: 35px; /* Decrease image size for mobile */
+     height: 35px; /* Decrease image size for mobile */
+     margin-left: 0; /* Reset margin for mobile */
+   }
+   .work-head{
+    position: relative;
+    margin-left: 3rem !important;
+    margin-right: -15rem !important;
+
+   }
+   .gold-white{
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: -1rem;
+   }
+   .work-menu{
+    margin-left: 3rem !important;
+    margin-right: -5rem !important;
+   }
+   .work-menu a{
+    font-size: 8px;
+    background:transparent;
+   }
+   .work-hero{
+    margin-top: 0;
+   }
+   .work-section{
+    margin-top: 0rem;
+   }
+   .work-title{
+    font-size: 22px !important;
+    margin-left: 1rem ;
+   }
+   .img-work{
+    margin-left: -100rem;
+    margin-right: 25rem;
+    margin-top: -21rem;
+    
+   }
+   .img-work img{
+    width: 1rem;
+    height: 1rem;
+   }
  }
  
  

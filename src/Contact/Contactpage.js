@@ -10,26 +10,27 @@ function Contactpage() {
       <div>
         <div class="hero-section1">
         {/* <img class="image-container img-content-b60e4b02" src={img1} /> */}
-          <div class="flex-work
-          ">
-            <div class="flex-works">
-              <p class="header-work">L8D</p>
-              <p class="brand-work">®</p>
-            </div>
-            <div class="navigation-work">
-              <a href="#" class="navbar-work ">Home</a>
-              <a href="#" class="navbar-work">Services</a>
-              <a href="/next" class="navbar-work">Work</a>
-              <a href="#" class="navbar-work">About</a>
-              <a href="#" class="navbar-work">Blog</a>
-              <a href="/contact" class="navbar-work">Contact</a>
-            
-            </div>
-            <p class="contact-work">Let’s Talk</p>
-          </div>
+        <div className={`header-container3 work-hero`}>
+        <div className={`header-container1 work-head`}>
+          <p className={`golden-text2 gold-white`}>
+            <span>L8</span>
+            <span className={`golden-text1 gold-white`}>D</span>
+          </p>
+          <p className={`golden-text gold-white`}>®</p>
+        </div>
+        <div className={`navigation-menu work-menu`}>
+          <a href="#"  className={`navigation-link`}>Home</a>
+          <a href="#" className={`navigation-link`}>Services</a>
+          <a href="/next" className={`navigation-link`}>Work</a>
+          <a href="#" className={`navigation-link`}>About</a>
+          <a href="#" className={`navigation-link`}>Blog</a>
+          <a href="/contact" className={`navigation-link`}>Contact</a>
+          <a className="talk">Let's Talk</a>
+        </div>
+      </div>
           <div class="work-section">
             <p class="work-title">Contact</p>
-            <div class="image-container10">
+            <div class="image-container10 img-work">
               <img src={img2}/>
             
             </div>

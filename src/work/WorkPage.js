@@ -11,36 +11,27 @@ function WorkPage() {
       <div>
         <div class="hero-section1">
          
-          <div class="flex-work"> 
-            <div class="flex-works">
-              <p class="header-work">L8D</p>
-              <p class="brand-work">®</p>
-            </div>
-            <div class="navigation-work">
-              <a href="#" className={`navigation-link navbar-work`}>
-                Home
-              </a>
-              <a href="#" className={`navigation-link navbar-work`}>
-                Services
-              </a>
-              <a href="/next" className={`navigation-link navbar-work`}>
-                Work
-              </a>
-              <a href="#" className={`navigation-link navbar-work`}>
-                About
-              </a>
-              <a href="#" className={`navigation-link navbar-work`}>
-                Blog
-              </a>
-              <a href="/contact" className={`navigation-link navbar-work`}>
-                Contact
-              </a>
-            </div>
-            <p class="contact-work">Let’s Talk</p>
-          </div>
+        <div className={`header-container3 work-hero`}>
+        <div className={`header-container1 work-head`}>
+          <p className={`golden-text2 gold-white`}>
+            <span>L8</span>
+            <span className={`golden-text1 gold-white`}>D</span>
+          </p>
+          <p className={`golden-text gold-white`}>®</p>
+        </div>
+        <div className={`navigation-menu work-menu`}>
+          <a href="#"  className={`navigation-link`}>Home</a>
+          <a href="#" className={`navigation-link`}>Services</a>
+          <a href="/next" className={`navigation-link`}>Work</a>
+          <a href="#" className={`navigation-link`}>About</a>
+          <a href="#" className={`navigation-link`}>Blog</a>
+          <a href="/contact" className={`navigation-link`}>Contact</a>
+          <a className="talk">Let's Talk</a>
+        </div>
+      </div>
           <div class="work-section">
             <p class="work-title">Work</p>
-            <div class="image-container10">
+            <div class="image-container10 img-work">
               <img src={img2} />
             </div>
           </div>
