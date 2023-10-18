@@ -39,9 +39,9 @@
   border: 1px rgb(211, 207, 207) solid;
   color: #c9c7c7;
   letter-spacing: -0.05em;
-  margin-left: -29.5rem;
+  margin-left: -28rem;
   min-width: 575px;
-  margin-bottom: 94.2px;
+  margin-bottom: 20.2px;
   font-family: 'Poppins';
   padding: 13px;
 }
@@ -52,7 +52,7 @@
   border: 1px rgb(211, 207, 207) solid;
   color: #c9c7c7;
   letter-spacing: -0.05em;
-  margin-left: -30rem;
+  margin-left: -28rem;
   min-width: 600px;
   padding: 15px;
 }
@@ -62,16 +62,15 @@
     flex-direction: column !important;
     margin-left: 6rem !important;
     margin-right: 1.5rem;
-    width: 300px !important;
+    max-width: 760px;
   }
-  .large-heading1{
+  .large-heading1, .large-text{
     transform: none;
     margin: 0 !important;
-    
+    padding-right: -14rem !important;
     
    
-   font-size: 20px !important;
-   width: 100px  !important  ;
+   font-size: 30px !important;
   }
   .large-text{
     transform: none;
@@ -92,5 +91,3 @@
     margin-top: 5rem;
   }
 }
-
-

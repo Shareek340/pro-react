@@ -4,7 +4,7 @@ import "./style.css";
 function SectionWithNumbers() {
   return (
     <div className={`digital-level8-container`}>
-      <div className={`flex-end-container num-pad`}>
+      <div className={`flex-end-container`}>
         <p className={`large-heading1`}>01</p>
         <p className={`large-heading1`}>02</p>
         <p className={`large-heading1`}>03</p>
