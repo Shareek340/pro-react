@@ -41,14 +41,18 @@
 }
 @media only screen and (max-width: 767px) {
   .development-section{
-    width: 450px !important;
+    width: 320px !important;
     margin-left: -4rem;
     margin-top: -0.5rem;
     height: 50px;
   }
   .development-title{
-    font-size: 35px;
+    font-size: 25px;
     margin-bottom: 6rem;
     margin-left: 0.5rem !important;
+  }
+  .img-content-3034597b{
+    width: 20px !important;
+    height: 20px !important;
   }
 }

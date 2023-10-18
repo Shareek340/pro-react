@@ -44,7 +44,8 @@
 @media only screen and (max-width: 767px) {
    .branding-section{
     margin-left: -4.1rem;
-    width: 450px;
+    width: 320px !important;
+    height: 150px !important;
     height: 10px !important;
     border-radius: 0;
     margin-bottom: 1rem;
@@ -55,8 +56,11 @@
     margin-bottom: 6rem;
    }
    .branding-container{
-    margin-bottom: 8rem;
-    width: 30px;
-    height: 30px;
+    margin-bottom: 7rem;
+    
+   }
+   .img-content-2b6fcfa5{
+    width: 20px !important;
+    height: 20px !important;
    }
 }

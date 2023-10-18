@@ -76,20 +76,27 @@
   flex-direction: column !important;
 }
 .company-experience-text{
-  width: 300px !important;
+  width: 200px !important;
   margin-left: -5rem;
   text-align: justify;
   margin-top: 2rem;
+  font-size: 10px !important;
 }
 .company-list{
-  margin-left: 10rem;
+  margin-left: 2rem;
   margin-top: -3rem;
+}
+.company-list img{
+  width: 15px !important;
+  height: 15px !important;
+  margin-top: -2rem !important;
 }
 .career-section{
   flex-direction: row;
 }
 .brand-design-container{
   margin-top: -1rem;
+  width: 375px;
 }
 }
 

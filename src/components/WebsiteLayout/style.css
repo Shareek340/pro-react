@@ -27,7 +27,7 @@
 .retail-section{
   flex-direction: column !important;
   margin-left: -2rem !important;
-  width: 450px !important;
+  width: 320px !important;
   margin-bottom: -4rem;
 }
 .retail-section1, .retail-chain-info1{
@@ -37,6 +37,7 @@
   margin-top: 1rem;
   margin-top: -6.5rem;
   margin-bottom: 6rem;
+  width: 320px !important;
   
 }
 }

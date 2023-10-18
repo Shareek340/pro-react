@@ -31,12 +31,12 @@
   .flex-container{
     margin-left: -4rem;
     margin-top: -3rem;
-    width: 450px;
+    width: 340px;
     margin-bottom: -3rem;
 
   }
   .flex-container p{
-    font-size: 30px !important;
+    font-size: 15px !important;
   }
 }
 
