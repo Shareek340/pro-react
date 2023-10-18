@@ -53,6 +53,15 @@
   .apollo-website-design3{
     margin-top: 1rem !important;
   }
+  .apollo-website-design1{
+    margin-left: -14rem !important;
+    margin-right: 5rem !important;
+  }
+  .apollo-website-design1 img{
+    width: 250px !important ;
+    height: 250px !important;
+    
+  }
   .apollo-website-design{
     margin-bottom: -0.5rem;
   }

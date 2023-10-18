@@ -7,9 +7,9 @@
 }
 @media only screen and (max-width: 767px){
   .imge img{
-    margin-left: -12rem !important;
-    width: 100px;
-    height: 250px !important;
+    margin-left: -16rem !important;
+    width: 80px;
+    height: 180px !important;
     margin-top: 0rem;
   }
 }

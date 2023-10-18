@@ -13,8 +13,13 @@
 @media only screen and (max-width: 767px) {
   .project-card{
     flex-direction: column;
-    margin-left: -25rem !important;
-    margin-top: -3rem;
+    /* margin-left: -35rem !important; */
+    margin-top: -3.5rem;
+    margin-right: ;
+    margin-left: -5px !important;
+    margin-left: 80px !important;
+    /* margin-right: 30rem !important; */
+    width: 400px !important;
   }
 }
 

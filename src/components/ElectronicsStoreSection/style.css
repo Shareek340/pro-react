@@ -120,25 +120,35 @@
     margin-left: -2.5rem;
     
   }
+  .featured-case-study1 .hero-image{
+    width: 300px !important;
+    height: 100px !important;
+  }
   .featured-case-study4{
     flex-direction: column-reverse;
+    margin-left: -1rem !important;
+    margin-top: -0.5rem !important;
   }
   .featured-case-study1 img{
     width: 400px !important;
     height: 200px;
   }
   .featured-case-study-text{
-    font-size: 12px;
-    width: 400px !important;
+    font-size: 10px;
+    width: 320px !important;
+    margin-top: -0.2rem !important;
+    margin-top: 9px !important;
   }
   .case-study-link{
-    margin-top: -1rem;
+    margin-top: -1.5rem;
     color: #333333;
-    font-size: 12px;
+    font-size: 11px;
+    margin-left: -0.2rem !important;
   }
   .featured-case-study-section{
     flex-direction: column;
-    margin-top: -10rem;
+    margin-top: -13.5rem;
+    margin-left: -1rem;
   }
 }
 
