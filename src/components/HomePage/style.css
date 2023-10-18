@@ -56,7 +56,7 @@ font-weight: 600;
     margin-top: -1rem;
   }
   .digital-commerce-section{
-    width: 450px !important;
+    width: 450px;
   }
   .level8-digital{
     font-size: 2.5rem;
@@ -70,7 +70,10 @@ font-weight: 600;
     margin-left: -0.3rem;
   }
   .digital-commerce-section2{
-    margin-left: -4rem;
+    margin-left: -8.5rem;
     flex-direction: column;
+    width: 450px !important;
+    margin-top: -1rem;
+    margin-top: 1rem;
   }
 }
