@@ -1,9 +1,9 @@
 
 
 .imge img{
-  width: 420px;
+  width: 400px;
   height: 1120px !important;
-  margin-left: 13rem;
+  margin-left: 6.5rem;
 }
 @media only screen and (max-width: 767px){
   .imge img{

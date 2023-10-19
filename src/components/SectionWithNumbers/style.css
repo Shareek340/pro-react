@@ -47,12 +47,12 @@
 }
 
 .large-heading1 {
-  font: 600 106px Inter;
+  font: 600 100px Inter;
   transform: rotate(270deg);
   border: 1px rgb(211, 207, 207) solid;
   color: #c9c7c7;
   letter-spacing: -0.05em;
-  margin-left: -27.8rem;
+  margin-left: -28.6rem;
   min-width: 600px;
   padding: 15px;
 }

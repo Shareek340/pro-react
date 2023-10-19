@@ -73,7 +73,7 @@
 .featured-case-study1 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  padding-bottom: 6.5px;
+  padding-bottom: 1.5px;
 }
 .hero-image {
   box-sizing: border-box;
@@ -96,7 +96,8 @@
   gap: 8px;
   align-items: flex-start;
   justify-content: space-between;
-  margin-top: 11.5px;
+  margin-top: -15.5px;
+  margin-left: 0rem;
 }
 .website-description {
   box-sizing: border-box;
@@ -108,6 +109,7 @@
   margin-top: -3.5rem;
   font-size: 10.3px !important;
   font-weight: 400;
+  margin-right: -2rem !important;
 
   color: #a19f9f
   ;

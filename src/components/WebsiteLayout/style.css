@@ -13,14 +13,14 @@
 .retail-section1 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  padding-left: 773px;
+  padding-left: 673px;
   margin-top: -744px;
   margin-right: -4px;
 }
 .retail-chain-info1 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  padding-left: 773px;
+  padding-left: 674px;
   margin-right: -4px;
 }
 @media only screen and (max-width: 767px) {
@@ -32,7 +32,7 @@
 }
 .retail-section1, .retail-chain-info1{
   flex-direction: column;
-  margin-left: -45.2rem;
+  margin-left: -38.9rem;
   position: relative;
   margin-top: 1rem;
   margin-top: -6.5rem;
