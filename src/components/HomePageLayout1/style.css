@@ -52,7 +52,7 @@
   justify-content: flex-start;
   margin-top: 52px;
 }
-.discovery-session-heading2 {
+.discovery-session-headings1 {
   box-sizing: border-box;
   flex: 0 0 auto;
   font-family: 'Poppins', sans-serif;
@@ -60,6 +60,7 @@ font-size: 14px;
 font-weight: 500;
   color: #333333;
   letter-spacing: -0.05em;
+  margin-top: 1rem;
 }
 .digital-experience-card2 img{
   width: 305px !important;

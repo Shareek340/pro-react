@@ -37,7 +37,7 @@ function HomePageLayout1() {
           <img className={`website-work-image1 img-content-9a5530a4`} src={img1} />
           <WebsiteContent3 />
           <div className={`discovery-session2`}>
-            <p className={`discovery-session-heading2`}>Schedule A Free Discovery Session</p>
+            <p className={`discovery-session-headings1`}>Schedule A Free Discovery Session</p>
             <a href="#"><SvgIcon1 className="svg-container4" /></a>
           </div>
         </div>
@@ -46,7 +46,7 @@ function HomePageLayout1() {
           <img className={`website-work-image2 img-content-abd16de9`} src={img2} />
           <WebsiteContent1 />
           <div className={`discovery-session2`}>
-            <p className={`discovery-session-heading2`}>Schedule A Free Discovery Session</p>
+            <p className={`discovery-session-headings1`}>Schedule A Free Discovery Session</p>
             <a href="#"><SvgIcon2 className="svg-container4" /></a>
           </div>
         </div>
@@ -55,7 +55,7 @@ function HomePageLayout1() {
           <img className={`website-work-image img-content-d5d92f85`} src={img3} />
           <WebsiteContent2 />
           <div className={`discovery-session`}>
-            <p className={`discovery-session-heading2`}>Schedule A Free Discovery Session</p>
+            <p className={`discovery-session-headings1`}>Schedule A Free Discovery Session</p>
             <a href="#"><SvgIcon3 className="svg-container4" /></a>
           </div>
         </div>
@@ -64,7 +64,7 @@ function HomePageLayout1() {
           <img className={`website-work-image2 img-content-2cf9c4ac`} src={img4} />
           <WebsiteContent />
           <div className={`discovery-session-container4`}>
-            <p className={`discovery-session-heading2`}>Schedule A Free Discovery Session</p>
+            <p className={`discovery-session-headings1`}>Schedule A Free Discovery Session</p>
             <a href="#"><SvgIcon4 className="svg-container4" /></a>
           </div>
         </div>

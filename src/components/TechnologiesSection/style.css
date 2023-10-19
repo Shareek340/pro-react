@@ -31,7 +31,7 @@
   display: flex;
   flex: 0 0 auto;
   flex-direction: row;
-  gap: 41px;
+  gap: 31px;
   align-items: center;
   justify-content: flex-start;
   width: 40.68%;
@@ -131,7 +131,7 @@
   height: 45px;
 }
 
-.discovery-session1 {
+.discovery-sessions1 {
   box-sizing: border-box;
   display: flex;
   flex: 0 0 auto;
@@ -141,7 +141,7 @@
   width: 37.75%;
   padding-right: 15px;
   padding-left: 15px;
-  margin-left: 14rem;
+  margin-left: 12rem;
 }
 @media only screen and (max-width: 767px) {
    .technology-title{

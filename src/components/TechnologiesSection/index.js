@@ -43,7 +43,7 @@ function TechnologiesSection() {
           <img className={`image-container2 img-content-8af1c6b5`} src={img9} />
         </div>
         </div>
-        <div className={`discovery-session1`}>
+        <div className={`discovery-sessions1`}>
           <ScheduleDiscoverySession />
         </div>
       </div>
