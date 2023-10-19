@@ -72,9 +72,9 @@ letter-spacing: -2%;
 }
 @media only screen and (max-width: 767px){
     .contact-form{
-        margin-top: 10rem !important;
+        margin-top: 15rem !important;
         flex-direction: column;
-        margin-left: -4rem;
+        
     }
     .contact-text{
         
