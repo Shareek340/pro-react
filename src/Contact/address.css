@@ -6,7 +6,7 @@
     align-items: stretch;
     justify-content: center;
     height: 540px;
-    min-width: 641px;
+    /* min-width: 641px; */
 
     padding: 79px 48px 82px 94px;
     background: #333333;
@@ -94,14 +94,17 @@ font-weight: 500;
   @media only screen and (max-width: 767px){
     .address{
       flex-direction: column;
-     max-width: 760px !important;
+     width: 400px !important;
+     display: block;
      justify-content: start !important;
      align-items: start;
+     padding: 0 !important;
     }
-    .Address-text{
+    .address .Address-text{
       margin: 0 !important;
       margin-left: -4rem !important;
-      height: 300px;
+      width: 400px !important;
+      height: 300px !important;
       margin-top: -3rem !important;
       text-align: start;
     }
@@ -109,13 +112,29 @@ font-weight: 500;
       font-size: 16px !important;
       width: 300px !important;
       margin-top: -3rem !important;
+      padding: 0 !important;
+      margin-left: -3rem !important;
     }
     .office-location-text{
       font-size: 12px;
       margin-bottom: -4rem !important;
+      padding: 0 !important;
+      margin-left: -3rem !important;
+    }
+    .office-contact-section{
+      width: 400px !important;
+      height: 340px !important;
+      padding-right: 0 !important;
+      margin-left: 4rem !important;
+      
+    }
+    .email-text{
+      margin-left: -3rem !important;
     }
     .office-divider{
-      margin-top: -12rem !important;
+      margin-top: -1rem !important;
+      padding: 0 !important;
+      margin-left: -3rem !important;
     }
     .svg-container{
       margin-top: -2rem;
@@ -123,13 +142,14 @@ font-weight: 500;
       margin-left: 0.5rem !important;
       width: 1.5rem;
       height: 1.5rem !important;
+      padding: 0 !important;
     }
     .Address-map{
       height: 400px !important;
       
     }
     iframe{
-      max-width: 760px;
+      width: 400px;
       height: 300px !important
       ;
       margin-bottom: -20rem !important;
