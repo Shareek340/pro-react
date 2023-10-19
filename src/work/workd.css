@@ -55,13 +55,14 @@
 @media (max-width: 768px){
     .work-D{
      flex-direction: column;
-     max-width: 760px !important;
+     width: 400px !important;
+     margin-bottom: -8rem !important;
      
      height: auto;
     }
     .work1{
         flex-direction: column-reverse;
-        margin-left: -14rem;
+        margin-left: -2rem;
         
     }
     .work1 .w-image img{

@@ -191,16 +191,36 @@ font-weight: 500;
 /* Styles for screens smaller than 769px (typical mobile screens) */
 @media (max-width: 768px) {
   .Project-work {
+    width: 400px !important;
     padding: 20px; /* Adjust padding for mobile screens */
+    flex-direction: column !important;
   }
 
   .Project-work img {
     width: 100%; /* Make the image responsive */
     height: auto;
   }
+  .img-pro{
+    width: 300px !important;
+  }
+  .progress-indicator{
+    font-size: 16px !important;
+  }
+  .project-progress-bar{
+    margin-left: 18rem;
+    margin-top: -5rem !important;
+    margin-bottom: 3rem !important;
+  }
+  .case-pro{
+    font-size: 6px  !important;
+    margin-left: 1rem;
+    margin-left: -1.5rem;
+    margin-right: -0.5rem;
+    margin-right: 0.5rem;
+  }
 
   .project-WorkS-container, .project-type {
-    width: 100%; /* Allow full width for text */
+    width: 400px !important; /* Allow full width for text */
   }
 
   .branding-work {
@@ -237,7 +257,19 @@ font-weight: 500;
   .Project-work{
     margin-bottom: -8rem;
   }
-  /* Add other mobile-specific styles as needed */
+  .discover-work{
+    flex-direction: column;
+  }
+  .project-typeS{
+    font-size: 12px !important;
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+  }
+  .branding-work{
+    font-size: 14px !important;
+    margin-left: -1rem;
+    margin-bottom: 1rem !important;
+  }
 }
 
   

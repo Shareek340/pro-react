@@ -7,7 +7,7 @@ import img1 from '../assets/pro3.png'
 function Project3() {
   return (
     <div className={`Project-work`}>
-        <img src={img1}/>
+        <img className='img-pro' src={img1}/>
       <div className={`discover-work`}>
         <div className={`project-WorkS-container`}>
           <p className={`project-WorkS`}>Project Name</p>
@@ -29,7 +29,7 @@ function Project3() {
         <ProjectTeamComponent />
         <ProjectScript />
         <div className={`project-details1`}>
-          <p className={`case-work-title`}>View Case Study</p>
+          <p className={`case-work-title case-pro`}>View Case Study</p>
           <div className={`image-container10`}>
             <img className={`image-work img-content-cb1bc4af`} />
           </div>

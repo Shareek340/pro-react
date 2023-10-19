@@ -8,7 +8,7 @@ import WorkD from './WorkD'
 
 function Homework() {
   return (
-    <div>
+    <div className='wome-work'>
         <WorkPage/>
         <Project1/>
         <Project2/>
