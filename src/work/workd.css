@@ -55,7 +55,7 @@
 @media (max-width: 768px){
     .work-D{
      flex-direction: column;
-     width: 400px !important;
+     width: 380px !important;
      margin-bottom: -8rem !important;
      
      height: auto;
