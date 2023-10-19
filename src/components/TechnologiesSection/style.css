@@ -156,10 +156,13 @@
     margin-left: -2rem;
     gap: 1rem !important;
    }
+   .image-container2{
+    margin-top: -3rem !important;
+   }
    .image-container6 img{
-    width: 1.5rem;
-    height: 1.5rem;
-    margin-top: -2.5rem;
+    width: 1rem;
+    height: 1rem;
+    margin-top: -2rem;
    }
    .discovery-session1{
     margin-left: -5rem;

@@ -1,4 +1,4 @@
-.apollo-website-design1 {
+/* .apollo-website-design1 {
   box-sizing: border-box;
   display: flex;
   flex: 0 0 auto;
@@ -22,12 +22,12 @@
 .image-container8 {
   box-sizing: border-box;
   flex: 0 0 auto;
-  margin-right: -1rem;
+ 
 }
 .port-img img{
   width: 20px ;
   height: 30px;
-  margin-left: 4rem;
+ 
 }
 .logo-image {
   box-sizing: border-box;
@@ -36,4 +36,11 @@
   max-width: initial;
   height: 53px;
 }
-
+ */
+ @media only screen and (max-width: 700px){
+  .cord-cpm img {
+    width: 70px !important ;
+    height: 30px !important;
+    margin-bottom: -2rem !important;
+  }
+ }

@@ -21,7 +21,7 @@ function CompanyPortfolio() {
           </div>
         </div>
       </div>
-      <div className={`testimonial-section`}>
+      <div className={`testimonial-section com-card`}>
         <ImageSection1 />
         <HeroSection2 />
         <HeroSection1 />

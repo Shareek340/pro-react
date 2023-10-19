@@ -84,9 +84,14 @@
     flex-direction: column;
   }
   .main-heading{
-    margin-left: -23rem !important;
+    margin-left: -18.5rem !important;
     margin-right: -6rem;
-    margin-bottom: 3rem;
+    margin-bottom: 1.5rem;
+    font-size: 16px !important;
+  }
+  .hed-equ{
+    font-size: 12px !important;
+    margin-bottom: -2px ;
   }
   .omnichannel-agency-container{
     margin-left: 2rem;

@@ -5,7 +5,7 @@ import "./style.css";
 function HeroSection2() {
   return (
     <div className={`apollo-website-design1 port-con`}>
-      <div className={`image-container8 port-img`}>
+      <div className={`image-container8 port-img cord-cpm`}>
         <img className={`logo-image img-content-6e936a42`} />
       </div>
       <TestimonialSection />

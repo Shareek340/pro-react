@@ -45,7 +45,7 @@
   padding-right: 15px;
   padding-left: 15px;
 }
-.copyright-text {
+.foot-text {
   box-sizing: border-box;
   font-size: 15px;
   font-weight: 500;
@@ -53,11 +53,11 @@
 
   color: #919191;
   letter-spacing: -0.02em;
-  margin-left: -4rem;
+  margin-left: -27.5rem;
 }
 @media only screen and (max-width: 767px) {
   .header-container2{
-    flex-direction: column;
+   
     margin-left: 4rem;
     text-align: center;
   }
@@ -66,5 +66,16 @@
     font-size: 12px;
     margin-top: -1rem;
     margin-left: 0.5rem;
+  }
+  .fot-big-name{
+    font-size: 14px !important;
+    margin-left: -8rem ;
+    margin-top: 1rem;
+  }
+  .foot-text{
+    font-size: 8px !important;
+    margin-top: -2rem !important;
+    margin-left: -2rem !important;
+    width: 250px ;
   }
 }

@@ -128,9 +128,11 @@ font-weight: 500;
   .website-work-section{
     flex-direction: column;
     margin-left: -3rem;
-    margin-left: 4rem;
+    margin-left: 13.5rem;
     margin-bottom: 5rem;
     width: 450px !important;
+    margin-top: -1rem !important;
+    margin-top: 4rem !important;
   }
   .digital-experience-card2 {
    margin-bottom: -15rem !important;

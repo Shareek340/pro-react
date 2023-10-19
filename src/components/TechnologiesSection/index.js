@@ -36,10 +36,10 @@ function TechnologiesSection() {
           </div>
                   
         
-        <div className={`discovery-session-container2`}>
+        <div className={`discovery-session-container2 image-container11`}>
           <img className={`image-container2 img-content-8af1c6b5`} src={img8} />
         </div>
-        <div className={`discovery-session-container2`}>
+        <div className={`discovery-session-container2 image-container11`}>
           <img className={`image-container2 img-content-8af1c6b5`} src={img9} />
         </div>
         </div>
