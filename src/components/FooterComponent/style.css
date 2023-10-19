@@ -73,9 +73,9 @@
     margin-top: 1rem;
   }
   .foot-text{
-    font-size: 8px !important;
+    font-size: 6px !important;
     margin-top: -2rem !important;
-    margin-left: -2rem !important;
+    margin-left: -6rem !important;
     width: 250px ;
   }
 }

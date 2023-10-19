@@ -17,7 +17,7 @@ function EqualityAdvocate() {
         <p className={`discovery-session-heading3 hed-equ`}>Browse Our Entire Collection of Articles</p>
         <SvgIcon1 className="svg-container3" />
       </div>
-      <div className={`golden-border`} />
+      <div className={`golden-border dis-line`} />
     </div>
   );
 }
