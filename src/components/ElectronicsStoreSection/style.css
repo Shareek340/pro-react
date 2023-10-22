@@ -18,6 +18,7 @@
   gap: 8px;
   align-items: flex-start;
   justify-content: space-between;
+  margin-left: 0.8rem;
 }
 .featured-case-study5 {
   box-sizing: border-box;
