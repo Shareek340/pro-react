@@ -30,7 +30,7 @@
   color: #b8b8b8;
   letter-spacing: -0.05em;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
   .omnichannel-agency{
     flex-direction: column;
     margin-top: 5rem;

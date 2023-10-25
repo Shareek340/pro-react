@@ -49,7 +49,7 @@
   color: #b8b8b8;
   letter-spacing: -0.02em;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
   .apollo-website-design3{
     margin-top: 1rem !important;
   }

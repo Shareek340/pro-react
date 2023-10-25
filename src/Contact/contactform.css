@@ -70,7 +70,7 @@ letter-spacing: -2%;
     margin-left: 5rem !important;
     margin-right: -1rem;
 }
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 400px){
     .contact-form{
         margin-top: 15rem !important;
         flex-direction: column;

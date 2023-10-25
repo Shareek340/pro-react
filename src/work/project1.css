@@ -189,7 +189,7 @@ font-weight: 500;
 
 
 /* Styles for screens smaller than 769px (typical mobile screens) */
-@media (max-width: 768px) {
+@media only screen and (max-width: 400px) {
   .Project-work {
     width: 400px !important;
     padding: 20px; /* Adjust padding for mobile screens */

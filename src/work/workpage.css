@@ -166,7 +166,7 @@ font-weight: 500;
    margin-left: -2rem;
  }
  
- @media (max-width: 768px) {
+ @media only screen and (max-width: 400px) {
    .hero-section1 {
      padding: 20px; /* Adjust padding for mobile */
      width: 400px !important;

@@ -23,7 +23,7 @@
   padding-left: 674px;
   margin-right: -4px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
 .retail-section{
   flex-direction: column !important;
   margin-left: -2rem !important;

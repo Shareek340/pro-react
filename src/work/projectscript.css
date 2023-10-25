@@ -32,7 +32,7 @@ color: #333333 !important;
 
     letter-spacing: -0.02em;
   }
-  @media (max-width: 768px){
+  @media (max-width: 400px){
     .digital-experience-work{
       margin-top: -2rem;
     }

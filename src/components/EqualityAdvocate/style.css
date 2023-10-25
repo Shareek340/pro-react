@@ -86,7 +86,7 @@
   border-top: 5px solid #ffcc00;
   margin-left: -7rem;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
   .omnichannel-agency-container{
     flex-direction: column;
   }

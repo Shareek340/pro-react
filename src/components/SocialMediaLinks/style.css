@@ -107,7 +107,7 @@ font-size: 16px;
   display: flex;
 
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
   .find-us{
     font-size: 16px !important;
     margin-bottom: -0.1rem;

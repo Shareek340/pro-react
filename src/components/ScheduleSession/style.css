@@ -48,7 +48,7 @@ font-weight: 500;
   margin-bottom: -8rem;
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 400px){
   .discovery-session-container3{
     margin-left: -4rem;
     margin-top: 3rem;
