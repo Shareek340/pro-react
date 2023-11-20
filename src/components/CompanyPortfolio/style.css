@@ -44,11 +44,13 @@
   box-sizing: border-box;
   flex: 0 0 auto;
   padding-right: 3.75px;
-  padding-left: 3.75px;
+  padding-left: 4.75px;
   margin-top: 44px;
+  margin-right: -1rem !important;
 }
 .company-list img{
   margin-right: 1rem;
+  
 }
 
 /* .img-content-59486fc8 {
@@ -62,7 +64,7 @@
   flex-direction: row;
   gap: 27px !important;
   align-items: center;
- margin-left: -1.5rem;
+ margin-left: -0.5rem;
   justify-content: space-between;
   margin-top: 80px;
 }

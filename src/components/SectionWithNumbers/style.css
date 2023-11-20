@@ -57,7 +57,10 @@
   padding: 15px;
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 450px) {
+  .digital-level8-container{
+    margin-bottom: 5rem !important;
+  }
   .large-heading1{
     font-size: 22px !important;
     padding: 5px 5px 5px 5px  !important;
@@ -79,6 +82,6 @@
     margin-bottom: -0.5rem;
   }
   .digital-level8-container{
-    margin-bottom: 15rem !important;
+    margin-bottom: 35rem !important;
   }
 }
