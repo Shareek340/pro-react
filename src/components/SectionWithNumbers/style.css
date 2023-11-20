@@ -65,6 +65,8 @@
     font-size: 22px !important;
     padding: 5px 5px 5px 5px  !important;
     margin-right: -6.8rem !important;
+    font-family: 'Poppins', sans-serif !important;
+
     border: none;
 
   }
@@ -80,6 +82,8 @@
     text-align: start !important;
     padding-right: 45px !important;
     margin-bottom: -0.5rem;
+    font-family: 'Poppins', sans-serif !important;
+
   }
   .digital-level8-container{
     margin-bottom: 35rem !important;
