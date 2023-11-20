@@ -15,8 +15,12 @@ body {
 
 @media only screen and (max-width: 400px){
   .main-container{
-    width: 300px !important;
-    display: block !important;
+    width: 400px !important;
+    display: inline-block !important;
+    /* background-color: aqua !important; */
+    margin-right: -26rem !important;
+    margin-right: -10rem !important;
+
   }
 }
 

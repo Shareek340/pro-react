@@ -125,7 +125,14 @@ font-weight: 500;
   padding-left: 3.25px;
   margin-top: 52px;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
+  .digital-commerce-section1{
+    width: 400px !important;
+    margin-right: -30rem !important;
+    background-color: aqua !important;
+    display: block !important;
+    
+  }
   .website-work-section{
     flex-direction: column;
     margin-left: -3rem;
